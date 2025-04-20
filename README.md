@@ -24,3 +24,15 @@ Respond to user interactions.
 - Ensure semantic correctness.
 
 Happy Coding! 💻✨
+
+
+the html code
+
+
+
+
+
+
+
+ the css code
+
